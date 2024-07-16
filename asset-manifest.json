@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/first-react-project/static/css/main.079a7c51.chunk.css",
-    "main.js": "/first-react-project/static/js/main.94f8631e.chunk.js",
-    "main.js.map": "/first-react-project/static/js/main.94f8631e.chunk.js.map",
-    "runtime~main.js": "/first-react-project/static/js/runtime~main.dbb18081.js",
-    "runtime~main.js.map": "/first-react-project/static/js/runtime~main.dbb18081.js.map",
-    "static/js/2.ca150098.chunk.js": "/first-react-project/static/js/2.ca150098.chunk.js",
-    "static/js/2.ca150098.chunk.js.map": "/first-react-project/static/js/2.ca150098.chunk.js.map",
-    "index.html": "/first-react-project/index.html",
-    "precache-manifest.fcffc3227608264a7be3dad90e182f81.js": "/first-react-project/precache-manifest.fcffc3227608264a7be3dad90e182f81.js",
-    "service-worker.js": "/first-react-project/service-worker.js",
-    "static/css/main.079a7c51.chunk.css.map": "/first-react-project/static/css/main.079a7c51.chunk.css.map"
+    "main.css": "/first-ovoreact-project/static/css/main.079a7c51.chunk.css",
+    "main.js": "/first-ovoreact-project/static/js/main.94f8631e.chunk.js",
+    "main.js.map": "/first-ovoreact-project/static/js/main.94f8631e.chunk.js.map",
+    "runtime~main.js": "/first-ovoreact-project/static/js/runtime~main.472687d3.js",
+    "runtime~main.js.map": "/first-ovoreact-project/static/js/runtime~main.472687d3.js.map",
+    "static/js/2.ca150098.chunk.js": "/first-ovoreact-project/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/first-ovoreact-project/static/js/2.ca150098.chunk.js.map",
+    "index.html": "/first-ovoreact-project/index.html",
+    "precache-manifest.dc84d2ebcd7249cc8f8b437d4b8a3c0a.js": "/first-ovoreact-project/precache-manifest.dc84d2ebcd7249cc8f8b437d4b8a3c0a.js",
+    "service-worker.js": "/first-ovoreact-project/service-worker.js",
+    "static/css/main.079a7c51.chunk.css.map": "/first-ovoreact-project/static/css/main.079a7c51.chunk.css.map"
   }
 }
