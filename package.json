@@ -2,7 +2,7 @@
  "name": "ovoscript",
  "version": "0.1.0",
  "private": "true",
- "homepage": "https://ovoIsreal123.github.io/first-react-project/",
+ "homepage": "https://ovoIsreal123.github.io/first-react-project/src/",
  "predeploy": "npm run build",
  "deploy": "gh-pages -d build",
  "dependencies": {
@@ -19,8 +19,15 @@
   "start": "node index.js",
   "predeploy": "npm run build",
   "build": "react-scripts --openssl-legacy-provider build",
+<<<<<<< HEAD
   "deploy": "gh-pages -d build",
   "test": "jest --watchAll --verbose --coverage --runInBand"
+=======
+  "predeploy":"npm run build",
+   "deploy":"gh-pages -d build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+>>>>>>> 1f5d669d083b999bc0ab5a321637dc1e80db7f4c
  },
  "eslintConfig": {
   "extends": [
