@@ -7,12 +7,12 @@ export const Leftboxes = () => {
   return (
     <div className='leftbox'>
         <div className ='toptwo'>
-            <Box title={"cos1"}/>
-            <Box  title={"cos1"}/>
+            <Box title={"GST101"}/>
+            <Box  title={"COS01"}/>
         </div>
         <div className ='assignments'>
-          <Box title = {"cos1"} />
-          <Box title={"cos1"} />
+          <Box title = {"Advert"} />
+          <Box title={"Assignments"} />
         </div>
     </div>
   )
