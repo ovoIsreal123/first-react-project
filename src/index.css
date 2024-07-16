@@ -1,0 +1,84 @@
+*{
+  box-sizing: border-box;
+}
+
+.flex{display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.justify-content{
+  justify-content: center;
+}
+
+.items-center{
+  align-items: center;
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.aside{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: green;
+  width:300%;
+  height: 1000px;
+}
+
+.belowmainone{
+  gap: 10px;
+}
+
+
+
+.threerow{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+
+.assignments{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 590px; 
+  width: 33.3%;
+  color: white;
+}
+
+.leftbox{
+    display: flex;
+    flex-direction: column;
+    width: 780%;
+    height: 90px; 
+    gap: 110px;
+    color: white;
+}
+
+.toptwo{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 300px; 
+  color: white;
+}                                             
+                                           
