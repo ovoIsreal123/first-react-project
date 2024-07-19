@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/first-react-project/static/css/main.079a7c51.chunk.css",
+    "main.css": "/first-react-project/static/css/main.7ea801ba.chunk.css",
     "main.js": "/first-react-project/static/js/main.94f8631e.chunk.js",
     "main.js.map": "/first-react-project/static/js/main.94f8631e.chunk.js.map",
     "runtime~main.js": "/first-react-project/static/js/runtime~main.dbb18081.js",
@@ -8,8 +8,8 @@
     "static/js/2.ca150098.chunk.js": "/first-react-project/static/js/2.ca150098.chunk.js",
     "static/js/2.ca150098.chunk.js.map": "/first-react-project/static/js/2.ca150098.chunk.js.map",
     "index.html": "/first-react-project/index.html",
-    "precache-manifest.fcffc3227608264a7be3dad90e182f81.js": "/first-react-project/precache-manifest.fcffc3227608264a7be3dad90e182f81.js",
+    "precache-manifest.029b684831e2c189e7b7fdddfeb2ff27.js": "/first-react-project/precache-manifest.029b684831e2c189e7b7fdddfeb2ff27.js",
     "service-worker.js": "/first-react-project/service-worker.js",
-    "static/css/main.079a7c51.chunk.css.map": "/first-react-project/static/css/main.079a7c51.chunk.css.map"
+    "static/css/main.7ea801ba.chunk.css.map": "/first-react-project/static/css/main.7ea801ba.chunk.css.map"
   }
 }
